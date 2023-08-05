@@ -1,0 +1,14 @@
+button:
+  about: เกี่ยวกับ
+  back: กลับ
+  go: ไป
+  home: หน้าหลัก
+  toggle_dark: เปลี่ยนเป็นธีมมืด
+  toggle_langs: เปลี่ยนภาษา
+intro:
+  desc: Opinionated Vite Starter Template
+  dynamic-route: Demo of dynamic route
+  hi: สวัสดี, {name}!
+  aka: Also known as
+  whats-your-name: คุณชื่ออะไร?
+not-found: Not found
